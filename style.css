@@ -1,0 +1,42 @@
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+.container {
+  width: 90%;
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem 0;
+}
+header {
+  background: #004aad;
+  color: white;
+  padding: 3rem 0;
+  text-align: center;
+}
+header h1 {
+  margin-bottom: 0.5rem;
+}
+section {
+  border-bottom: 1px solid #ddd;
+  padding: 2rem 0;
+}
+h2 {
+  color: #004aad;
+}
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+}
+a {
+  color: #004aad;
+  text-decoration: none;
+}
+.project, .career {
+  margin-top: 1rem;
+}
